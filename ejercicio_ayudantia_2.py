@@ -32,3 +32,5 @@
 # No olvides cerrar el archivo
 
 # Escribe tu código acá
+
+print("Hola mundo!")
